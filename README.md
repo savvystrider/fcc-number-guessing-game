@@ -1,2 +1,2 @@
-# fcc-number0guessing-game
+# Number Guessing Game
 a freeCodeCamp project
